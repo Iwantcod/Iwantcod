@@ -1,4 +1,4 @@
-### 웹개발 분야에 관심이 있어 공부하고 있는 학부생입니다.
+### 웹개발 분야를 공부하고 있는 학부생입니다.
 
 <!--
 **Iwantcod/Iwantcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
