@@ -1,7 +1,7 @@
 ### 웹개발 분야를 공부하고 있는 학부생입니다.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjoonha0426)](https://solved.ac/kimjoonha0426/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjoonha0426)](https://solved.ac/kimjoonha0426/)
 <!--
 **Iwantcod/Iwantcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
